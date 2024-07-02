@@ -1,5 +1,5 @@
 
- <p align="center"> <img src="https://i.ibb.co/rpmBwYm/Untitled.jpg"  width="1200" height="400"/></p>
+ <p align="center"> <img src="https://i.ibb.co/bR13d5z/CDG-blog-post-image-01-850x412.jpg"  width="1200" height="400"/></p>
 
 # Munia Akter 👨‍💻
 
