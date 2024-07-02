@@ -11,7 +11,7 @@
 ## 🧐 About
 <p> Hello! I'm [Your Name], a passionate software developer with a strong background in web development and a keen interest in open-source projects. I thrive on creating efficient and scalable solutions that make a difference. My technology stack involves JavaScript,  , HTML/CSS/, Tailwind, react, mongodb, firebase. Besides programming, I have an immense interest in music.</p>
 
-- 😄 I am a good and regular and diligent student of programming her
+- 😄 I am a good and regular and diligent student of programming hero
 - 📫 How to reach me: muniyaakter21@gmail.com
 - 📝 [Linkedin](www.linkedin.com/in/munia-akter-98a3a6307)
 
